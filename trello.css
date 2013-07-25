@@ -1,0 +1,13 @@
+/* Thickening the active card border to make it more legible */
+.list-card.active-card {
+    border-width: 2.5px;
+}
+
+/* Tweed background for the hipsters */
+#board {
+    background-image:url('https://www.evernote.com/shard/s146/sh/808190b5-fbc2-4ce9-8aaa-3975c1b40dcf/86b8f9729934f664a6cbfb955377c1c9/deep/0/tweed_@2X.png');
+}
+
+html, body, input, select, textarea, button {
+ font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
